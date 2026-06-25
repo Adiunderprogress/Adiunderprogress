@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adiunderprogress&label=Profile%20views&color=0e75b6&style=flat" alt="adiunderprogress" /> </p>
 
-<p align="left"> <a href="https://github.com/Adiunderprogress"><img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUjqEs2r-tOO6mbRSsK4UW3eAXbsTC_GVRU0KBJ_WRFLpr5bQ8qYcOAy0Y&s=10" alt="adiunderprogress" /></a> </p>
+<p align="left"> <a href="https://github.com/Adiunderprogress"><img src="https://github-profile-trophy.vercel.app/?username=adiunderprogress" alt="adiunderprogress" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/adityak526" target="blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw4hcHhFBVjyehRzFOZOwQL6y3j_xIaVcYMFQMezWN2Q3R0fQlYt8u3lI&s=10" alt="adityak526" /></a> </p>
+<p align="left"> <a href="https://twitter.com/adityak526" target="blank"><img src="https://img.shields.io/twitter/follow/adityak526?logo=twitter&style=for-the-badge" alt="adityak526" /></a> </p>
 
 - 🔭 I’m currently working on [My Self](https://adityarocks1.github.io/Portfolio/#)
 
