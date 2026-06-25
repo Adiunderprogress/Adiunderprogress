@@ -1,3 +1,4 @@
+https://cdn.dribbble.com/userupload/32801711/file/original-921e71ee548ff1d244225e558a901a43.gif
 <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
 <h3 align="center">An passionate Software Engineer blending with Data Science.</h3>
 
