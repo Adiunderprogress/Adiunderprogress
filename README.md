@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/refs/heads/main/public/assets/pacman.svg" alt="Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
 <h3 align="center">An passionate Software Engineer blending with Data Science.</h3>
 
