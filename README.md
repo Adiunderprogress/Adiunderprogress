@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
 <h3 align="center">An passionate Software Engineer blending with Data Science from INDIA.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://adityarocks1.github.io/Portfolio/girl.png">
+<img align="right" alt="Coding" width="400" src="https://github.com/mashrur-rahman-fahim/mashrur-rahman-fahim">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adiunderprogress&label=Profile%20views&color=0e75b6&style=flat" alt="adiunderprogress" /> </p>
 
