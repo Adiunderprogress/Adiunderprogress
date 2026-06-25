@@ -1,13 +1,18 @@
-https://cdn.dribbble.com/userupload/32801711/file/original-921e71ee548ff1d244225e558a901a43.gif
-<h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
-<h3 align="center">An passionate Software Engineer blending with Data Science.</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Adiunderprogress&label=Profile%20views&color=0e75b6&style=flat" alt="Adiunderprogress" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adiunderprogress&label=Profile%20views&color=0e75b6&style=flat" alt="Adiunderprogress" /> </p>
+<p align="center">
+  <a href="https://github.com/Adiunderprogress">
+    <img src="https://github-profile-trophy.vercel.app/?username=Adiunderprogress" alt="Adiunderprogress" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://github.com/Adiunderprogress"><img src="https://github-profile-trophy.vercel.app/?username=Adiunderprogress" alt="Adiunderprogress" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/adityak526" target="blank"><img src="https://img.shields.io/twitter/follow/adityak526?logo=twitter&style=for-the-badge" alt="adityak526" /></a> </p>
-
+<p align="center">
+  <a href="https://twitter.com/adityak526" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/adityak526?logo=twitter&style=for-the-badge" alt="adityak526" />
+  </a>
+</p>
 - 🔭 I’m currently working on [My Self](https://adityarocks1.github.io/Portfolio/#)
 
 - 🌱 I’m currently learning **Core Computer Concepts(DL,COA,OS,DBMS,CN,TOC,DSA)**
