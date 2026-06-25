@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adiunderprogress&label=Profile%20views&color=0e75b6&style=flat" alt="Adiunderprogress" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Adiunderprogress" alt="Adiunderprogress" /></a> </p>
+<p align="left"> <a href="https://github.com/Adiunderprogress"><img src="https://github-profile-trophy.vercel.app/?username=Adiunderprogress" alt="Adiunderprogress" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/adityak526" target="blank"><img src="https://img.shields.io/twitter/follow/adityak526?logo=twitter&style=for-the-badge" alt="adityak526" /></a> </p>
 
@@ -36,7 +36,7 @@
 <a href="https://medium.com/@adi123tya456kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@adi123tya456kumar" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@adityalay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="/@adityalay" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/aditya12580" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aditya12580" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@24bcs12580" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="24bcs12580" height="30" width="40" /></a>
+<a href="[https://www.hackerrank.com/@24bcs12580](https://www.hackerrank.com/profile/24BCS12580)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="24bcs12580" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/aditya1kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aditya1kumar" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/adityakumar12580" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adityakumar12580" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@adi123tya456kumar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@adi123tya456kumar/" height="30" width="40" /></a>
