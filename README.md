@@ -11,11 +11,11 @@
 
 <p align="left"> <a href="https://twitter.com/adityak526" target="blank"><img src="https://img.shields.io/twitter/follow/adityak526?logo=twitter&style=for-the-badge" alt="adityak526" /></a> </p>
 
-- 🔭 I’m currently working on [My Self](https://adityarocks1.github.io/Portfolio/#)
+- 🔭 I’m currently working on **My Self**
 
 - 🌱 I’m currently learning **Core Computer Concepts(DL,COA,OS,DBMS,CN,TOC,DSA)**
 
-- 👯 I’m looking to collaborate on **Building Our Relationship("Juuust Friendsss")**
+- 👯 I’m looking to collaborate on **Building a Startup**
 
 - 🤝 I’m looking for help with **My GATE preparation**
 
