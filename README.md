@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Core Computer Concepts(DL,COA,OS,DBMS,CN,TOC,DSA)**
 
-- 👯 I’m looking to collaborate on **Building ME**
+- 👯 I’m looking to collaborate on **Building Our Relationship**
 
 - 🤝 I’m looking for help with **My GATE preparation**
 
