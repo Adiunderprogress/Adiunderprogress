@@ -55,6 +55,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/hskfi7bogj"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hskfi7bogj" /></a><a href="https://ko-fi.com/adityakumar1"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="adityakumar1" /></a></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adiunderprogress&show_icons=true&locale=en" alt="adiunderprogress" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adiunderprogress&show_icons=true&locale=en" alt="" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adiunderprogress&" alt="adiunderprogress" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adiunderprogress" alt="adiunderprogress" /></p>
